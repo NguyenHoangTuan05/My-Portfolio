@@ -34,11 +34,11 @@
             <div class="p-2"
                  style="background: #111a3e; width: 50px;height: 46px; display: flex;justify-content: center; border-radius: 50%;
               overflow: hidden;border: 1px solid#111a3e;backdrop-filter: blur(9px);-webkit-backdrop-filter: blur(9px);">
-              <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="linkedin" class="w-6">
+              <img src="https://i.pinimg.com/474x/fe/f9/c7/fef9c7dd949ae67b77243f83d349307f.jpg" alt="linkedin" class="w-7">
             </div>
             <div class="ml-5 text-white">
-              <h4>linkedin</h4>
-              <p>https://www.youtube.com/watch?v=U10h8rrPe6g&t=2935s</p>
+              <h4>Facebook</h4>
+              <p>https://www.facebook.com/share/15nVBtaH6e/?mibextid=wwXIfr</p>
             </div>
           </div>
         </div>
